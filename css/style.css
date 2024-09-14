@@ -16,7 +16,7 @@
 }
 .about-nav:hover{
     height: 40px;
-    width:50px;
+    width:40px;
     align-content: center;
     align-content:right;
  background-color: rgb(121, 120, 120);
@@ -25,7 +25,7 @@
 }
 .Education-nav:hover{
     height: 40px;
-    width:70px;
+    width:65px;
     align-content: center;
     align-content:right;
  background-color: rgb(121, 120, 120);
@@ -34,7 +34,7 @@
 }
 .skills-nav:hover{
     height: 40px;
-    width:50px;
+    width:37px;
     align-content: center;
     align-content:right;
  background-color: rgb(121, 120, 120);
